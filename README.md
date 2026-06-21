@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhishek34656
-- 👀 I’m interested in web development.
+- 👀 I’m interested in app development.
 - 🌱 I’m currently learning C++ programming language.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me through email abhishekmeena.dev@gmail.com.
